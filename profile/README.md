@@ -62,7 +62,7 @@ We work on making future electric power systems **sustainable, secure, and resil
 
 ## 📚 Teaching
 
-We host course materials for students at CUT:
+We host course materials for students at CUT. See all courses at [sps-lab.org/courses](https://sps-lab.org/courses/).
 
 - Power Systems I (EEN320)
 - Power Systems II (EEN442)
