@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sps-lab.org">
-    <img src="https://sps-lab.org/logo_hd.png" alt="SPS Lab Logo" width="180"/>
+    <img src="https://sps-lab.org/logo_hd.png" alt="SPS Lab Logo" width="280"/>
   </a>
 </p>
 
