@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sps-lab.org">
-    <img src="https://sps-lab.org/logo.png" alt="SPS Lab Logo" width="180"/>
+    <img src="https://sps-lab.org/logo_hd.png" alt="SPS Lab Logo" width="180"/>
   </a>
 </p>
 
@@ -72,7 +72,11 @@ We host course materials for students at CUT:
 
 ## 🤝 Collaborations & Funding
 
-Our research is supported by national and European funding bodies. We actively collaborate with industry partners including the **Transmission System Operator of Cyprus (TSOC/EAC)** and international academic institutions.
+Our research is supported by national and European funding bodies.
+
+<p align="center">
+  <img src="https://sps-lab.org/media/sponsors/sponsors.svg" alt="Sponsors" width="600"/>
+</p>
 
 ---
 
